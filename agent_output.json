@@ -1,0 +1,36 @@
+{
+    "learning_resources": [
+        {
+            "title": "Java Multithreading, Concurrency & Performance Optimization",
+            "url": "https://www.udemy.com/course/java-multithreading-concurrency-performance-optimization/",
+            "type": "course",
+            "why_it_helps": "This course focuses on high-performance coding and the low-level mechanics of Java concurrency. It directly addresses your 'Advanced Java' gap by teaching you how to build scalable, thread-safe applications and optimize them for the JVM."
+        },
+        {
+            "title": "Java Performance: The Definitive Guide (Scott Oaks)",
+            "url": "https://www.oreilly.com/library/view/java-performance-the/9781449363512/",
+            "type": "book",
+            "why_it_helps": "A senior-level requirement is understanding how the JVM manages memory (Garbage Collection) and compiles code (JIT). This book is the industry standard for learning performance tuning, heap analysis, and diagnostic tooling like JVisualVM."
+        },
+        {
+            "title": "Effective Java, 3rd Edition (Joshua Bloch)",
+            "url": "https://www.pearson.com/en-us/subject-catalog/p/effective-java/P200000000551/9780134685991",
+            "type": "book",
+            "why_it_helps": "While you have Spring/Hibernate experience, an 'Experienced' role requires mastery of idiomatic Java. This resource covers advanced design patterns and best practices for creating robust, maintainable backend systems."
+        }
+    ],
+    "community": {
+        "open_source_project": {
+            "name": "Java Design Patterns",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "contribution_type": "GitHub repo",
+            "benefit": "Contributing here allows you to practice the 'Design Patterns' part of your gap in a highly visible, community-driven project. It’s perfect for seeing how senior developers structure complex logic."
+        },
+        "hackathon_opportunity": {
+            "name": "Global Hack Week (MLH)",
+            "url": "https://mlh.io/global-hack-week",
+            "type": "Hackathon",
+            "benefit": "MLH hosts regular week-long challenges. Participating as a Java/Spring Boot expert in these events will test your 'Delivering Under Deadlines' and 'Teamwork' soft skills in a competitive environment."
+        }
+    }
+}
